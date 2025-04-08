@@ -1,0 +1,7 @@
+Flask
+pillow
+pytesseract
+pymongo
+twilio
+requests
+werkzeug
